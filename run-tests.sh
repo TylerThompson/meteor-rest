@@ -17,4 +17,5 @@ meteor test-packages \
   "$DIR/packages/authenticate-user-by-token" \
   "$DIR/packages/rest-accounts-password" \
   "$DIR/packages/rest-json-error-handler" \
-  "$DIR/packages/rest-method-mixin"
+  "$DIR/packages/rest-method-mixin" \
+  "$DIR/packages/rest-cors"
